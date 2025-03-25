@@ -19,7 +19,7 @@
     <li><strong>🤖 Robótica y Automatización Industrial</strong></li>
     <li><strong>🔒 Entusiasta de la Ciberseguridad</strong></li>
   </ul>
-  🌟 Mi pasión por la ciberseguridad me impulsa a estar siempre al tanto de las últimas tendencias y tecnologías en el campo. Desde pequeño, he tenido una gran afición por los videojuegos, [...]
+  🌟 Mi pasión por la ciberseguridad me impulsa a estar siempre al tanto de las últimas tendencias y tecnologías en el campo.
 </p>
 
 ###
