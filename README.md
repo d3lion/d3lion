@@ -99,7 +99,7 @@
   </li>
   <li>
     <div align="left" style="display: flex; align-items: center;">
-      <img src="h[ttps://edu-cisco.org/wp-content/uploads/2023/07/cisco-networking-basics.png](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png)" height="40" alt="certificación redes básico" />
+      <img src="https://www.pue.es/areas/training/resources/images/sections/courses/providers/cisco/badge-ethicalhacker.png" height="40" alt="certificación redes básico" />
       <span>&nbsp;<strong>🌐 Ethical Hacker</strong> - Cisco</span>
     </div>
   </li>
