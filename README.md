@@ -115,6 +115,18 @@
       <span>&nbsp;<strong>🌐 Dispositivos de red y configuraciones iniciales</strong> - Cisco</span>
     </div>
   </li>
+  <li>
+    <div align="left" style="display: flex; align-items: center;">
+      <img src="https://acumen.org/app/uploads/2024/04/Gobierno-de-Espana-Ministerio-de-Trabajo-y-Economia-Social.png" height="40" alt="certificación redes básico" />
+      <span>&nbsp;<strong>🌐 Modelado 3D en blender</strong> - Gobierno de España</span>
+    </div>
+  </li>
+  <li>
+    <div align="left" style="display: flex; align-items: center;">
+      <img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEuTOoZEk25cQ/articleshare-shrink_800/articleshare-shrink_800/0/1741343846071?e=2147483647&v=beta&t=OICgO9TqpIAm3p98mazlCbjcsToU2wtZzEsWohflwa8" height="40" alt="certificación redes básico" />
+      <span>&nbsp;<strong>🌐 IA Fundamentals</strong> - Oracle</span>
+    </div>
+  </li>
 </ul>
 
 ###
