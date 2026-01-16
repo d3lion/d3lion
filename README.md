@@ -103,6 +103,12 @@
       <span>&nbsp;<strong>🌐 Ethical Hacker</strong> - Cisco</span>
     </div>
   </li>
+  <li>
+    <div align="left" style="display: flex; align-items: center;">
+      <img src="https://www.pue.es/areas/training/resources/images/sections/courses/providers/cisco/badge-ethicalhacker.png" height="40" alt="certificación redes básico" />
+      <span>&nbsp;<strong>🌐 Ethical Hacker</strong> - Cisco</span>
+    </div>
+  </li>
 </ul>
 
 ###
