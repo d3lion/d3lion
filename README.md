@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo de git"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="logo de blender"  />
+  <img width="12" />
+  <img src="https://pngimg.com/uploads/php/php_PNG43.png" height="40" alt="logo de blender"  />
 </div>
 
 ###
