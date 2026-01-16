@@ -106,7 +106,13 @@
   <li>
     <div align="left" style="display: flex; align-items: center;">
       <img src="https://www.pue.es/areas/training/resources/images/sections/courses/providers/cisco/badge-ethicalhacker.png" height="40" alt="certificación redes básico" />
-      <span>&nbsp;<strong>🌐 Ethical Hacker</strong> - Cisco</span>
+      <span>&nbsp;<strong>🌐 C++ Essential</strong> - Cisco</span>
+    </div>
+  </li>
+  <li>
+    <div align="left" style="display: flex; align-items: center;">
+      <img src="https://images.credly.com/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" height="40" alt="certificación redes básico" />
+      <span>&nbsp;<strong>🌐 Dispositivos de red y configuraciones iniciales</strong> - Cisco</span>
     </div>
   </li>
 </ul>
